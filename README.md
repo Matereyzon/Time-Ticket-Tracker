@@ -39,3 +39,6 @@ Built for:
 - Technical freelancers
 
 - People who value simplicity
+
+Buy in:
+https://axelranger.gumroad.com/l/pfymz
