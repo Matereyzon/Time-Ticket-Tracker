@@ -1,44 +1,63 @@
-### 🕒 Time & Ticket Tracker – Minimal Windows App
+# Time & Ticket Tracker
 
-This app is for you if:
+A minimal offline Windows app to track work time and completed tickets.
 
-- You work with tickets or tasks
+## Why this exists
 
-- You hate apps with accounts, cloud sync or distractions
+I work in IT and got tired of time tracking tools that require:
+- accounts
+- cloud sync
+- dashboards I never look at
+- productivity gimmicks
 
-- You just want to press a button and work
+I just wanted something simple:
+- press start
+- do the work
+- stop when done
+- count tickets
 
-#### What it does
+Nothing more.
 
-- Work time tracking
+So I built this small desktop app for myself.
 
-- Pause and reset timer
+## What it does
 
-- Manual ticket counter
+- Track work time (start / stop / reset)
+- Manually count completed tickets
+- Works completely offline
+- No accounts
+- No cloud
+- No notifications
+- Can be launched at Windows startup
 
-- Works offline
-
-- No cloud, no accounts
-
-- No interruptions
-
-#### What it does NOT do (by design)
+## What it does NOT do (by design)
 
 - No synchronization
-
 - No statistics or reports
-
+- No historical analytics
 - No productivity gamification
 
-Built for:
+The goal is zero friction.
+
+## Who this is for
 
 - IT technicians
-
 - Sysadmins
-
 - Technical freelancers
+- Anyone who wants a tool that stays out of the way
 
-- People who value simplicity
+## Platform
 
-Buy in:
-https://axelranger.gumroad.com/l/pfymz
+- Windows 10+
+
+## Download
+
+The app is distributed as a compiled Windows executable.
+
+You can find it here:  
+👉 https://axelranger.gumroad.com/l/pfymz
+
+## Notes
+
+This is a small personal tool, not a SaaS.
+Feedback is welcome if you feel something obvious is missing.
